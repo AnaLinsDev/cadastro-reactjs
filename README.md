@@ -13,12 +13,12 @@
 
 ### Backend 
 
-- abra a pasta `backend` no Prompt de comando ( adimistrador ). 
+- abra a pasta `backend` no Prompt de comando ( administrador ). 
 - `$ npm install` 
 -  `$ npm start` Iniciará o servidor Json backend na `http://localhost:3001/users` 
 
 ### Frontend | Web
 
-- abra a pasta `frontend` no Prompt de comando ( adimistrador ). 
+- abra a pasta `frontend` no Prompt de comando ( administrador ). 
 - `$ npm install` 
 -  `$ npm start`  Iniciará o cliente na `http://localhost:3000` 
